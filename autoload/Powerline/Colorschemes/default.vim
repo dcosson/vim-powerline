@@ -26,7 +26,7 @@ call Pl#Hi#Allocate({
 	\ 'brightorange'   : 208,
 	\ 'brightestorange': 214,
 	\
-	\ 'gray0'          : 233,
+	\ 'gray0'          : 236,
 	\ 'gray1'          : 235,
 	\ 'gray2'          : 236,
 	\ 'gray3'          : 239,
